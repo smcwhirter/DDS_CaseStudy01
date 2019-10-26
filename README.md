@@ -1,5 +1,6 @@
 # DDS_CaseStudy01
 The purpose of this project is to analyze the Beers.csv and Breweries.csv data sets by following the proivded guidelines of:
+
 1.   How many breweries are present in each state?
 
 2.   Merge beer data with the breweries data. Print the first 6 observations and the last six observations to check the merged file.  (RMD only, this does not need to be included in the presentation or the deck.)
@@ -18,13 +19,15 @@ The purpose of this project is to analyze the Beers.csv and Breweries.csv data s
 
 9. Knock their socks off!  Find one other useful inference from the data that you feel Budweiser may be able to find value in.  You must convince them why it is important and back up your conviction with appropriate statistical evidence. 
 
-# Case Study EDA
+# Case Study EDA.pptx
 The Cse Study EDA.pptx contains the initial exploratory data analysis that Sid and I did on the data.  It answers questions 1-7 and provides a few additional insights.
 
 
-# Case Study Final Presentation
+# Case Study Final Presentation.pptx
 This is the final presentation answering questions 1-9.
 
-# Case Study RMarkdown
-The Case Study R Markdown.RMD file contains all code usded in this project.  
+# Case Study RMarkdown.rmd
+The Case Study RMarkdown file contains all code usded in this project.  
 
+# Case-Study-R-Markdown.html
+This is an HMTL output of the RMarkdown file.
