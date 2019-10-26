@@ -18,6 +18,12 @@ The purpose of this project is to analyze the Beers.csv and Breweries.csv data s
 
 9. Knock their socks off!  Find one other useful inference from the data that you feel Budweiser may be able to find value in.  You must convince them why it is important and back up your conviction with appropriate statistical evidence. 
 
-#RMD File
-The RMarkdown file contains all of the code used in this analysis.
+#Case Study EDA
+The Cse Study EDA.pptx contains the initial exploratory data analysis that Sid and I did on the data.  It answers questions 1-7 and provides a few additional insights.
+
+#Case Study Final Presentation
+This is the final presentation answering questions 1-9.
+
+#Case Study R Markdown
+the Case Study R Markdown.RMD file contains all code usded in this project.  
 
